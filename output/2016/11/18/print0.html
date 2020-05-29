@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+    <title>You too can -print0</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/static/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/wanja.css">
+</head>
+
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="page-header">
+                <h1><a href="/">Subtle Coolness</a></h1>
+                <p class="text-muted"><a href="/alpha">alpha index</a> &middot; <a href="/chrono">chrono index</a></p>
+            </div>
+            <h2>You too can -print0</h2>
+<p class="small"><a href="/2016/11/18/print0">&para;</a> 2016-11-18 14:30:00 -0600</p>
+<p>Do you use the command line a lot? Do you search for files with <code class="highlighter-rouge">find(1)</code>? Do
+you send lists of files to <code class="highlighter-rouge">xargs(1)</code>? Do the files sometimes have names with
+spaces, apostrophes, and other special characters in them? Do you think it is
+great that <code class="highlighter-rouge">find -print0</code> takes care of that when you produce filenames, and
+<code class="highlighter-rouge">xargs -0</code> takes care of that when you consume them?</p>
+
+<p>Do you write your own command line tools?</p>
+
+<p>Do your command line tools generate lists of files? Can I send the output of
+your tools to <code class="highlighter-rouge">xargs</code>, even if the files have names with special characters in
+them?</p>
+
+<p>You too can separate filenames in the output of your command line tools with a
+null character instead of a newline.</p>
+
+<p>This is how I usually do it in Python:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c">#!/usr/bin/python3</span>
+
+<span class="kn">import</span> <span class="nn">argparse</span>
+
+<span class="n">parser</span> <span class="o">=</span> <span class="n">argparse</span><span class="o">.</span><span class="n">ArgumentParser</span><span class="p">()</span>
+<span class="n">parser</span><span class="o">.</span><span class="n">add_argument</span><span class="p">(</span><span class="s">'-0'</span><span class="p">,</span> <span class="s">'--print0'</span><span class="p">,</span> <span class="n">action</span><span class="o">=</span><span class="s">'store_true'</span><span class="p">)</span>
+<span class="n">args</span> <span class="o">=</span> <span class="n">parser</span><span class="o">.</span><span class="n">parse_args</span><span class="p">()</span>
+
+<span class="k">for</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">generate_filenames_somehow</span><span class="p">():</span>
+    <span class="k">if</span> <span class="n">args</span><span class="o">.</span><span class="n">print0</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">filename</span><span class="p">,</span> <span class="n">end</span><span class="o">=</span><span class="s">'</span><span class="se">\x00</span><span class="s">'</span><span class="p">)</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">print</span><span class="p">(</span><span class="n">filename</span><span class="p">)</span>
+</code></pre></div></div>
+
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

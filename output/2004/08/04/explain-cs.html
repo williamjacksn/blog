@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+    <title>In Which the Author Attempts to Explain C S</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/static/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/wanja.css">
+</head>
+
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="page-header">
+                <h1><a href="/">Subtle Coolness</a></h1>
+                <p class="text-muted"><a href="/alpha">alpha index</a> &middot; <a href="/chrono">chrono index</a></p>
+            </div>
+            <h2>In Which the Author Attempts to Explain C S</h2>
+<p class="small"><a href="/2004/08/04/explain-cs">&para;</a> 2004-08-04 04:44:00 +0000</p>
+<p>I just spent the last hour researching and writing code. Because I am only a beginning programmer, I <em>always</em> research before (and during) my code-writing. I donʼt know enough to just sit down and peck out the next great cross-platform application in an hour.</p>
+
+<p>However, I <em>do</em> know how to use <a href="http://www.google.com/">Google</a>. Here are the results.</p>
+
+<p>Any respectable weblog application (<a href="http://www.sixapart.com/movabletype/">Movable Type</a>, <a href="http://www.livejournal.com/">LiveJournal</a>, <a href="http://www.blogger.com/start">Blogger</a>, <a href="http://wordpress.org">WordPress</a>, and <a href="http://www.intertwingly.net/wiki/pie/RoadMap#head-8aa335e17d48d61829f9234ebad88bccf402b6a4">all the rest</a>) has something called an application programming interface, or API. The API makes up the list of commands and instructions that the application understands and will respond to. If you try to give an application an instruction that is not listed in its API, the poor app will just look at you and do one of two things: spin around in confusion for several minutes while hinting at imminent explosion; or laugh uncontrollably at you. The API outlines the language that the application speaks.</p>
+
+<p>Fortunately, most weblog applications have similar APIs. For example, Blogger and Movable Type will recognize most of the same instructions (LiveJournal is on its own on this one). Hence, all one needs to do is learn the language an application speaks, and one has power to control the aforementioned application.</p>
+
+<p>But the actual physical computer that the application is running on is over there (waves hand in general direction of cyberspace, perhaps to the east), and the computer that I am using right now is right here. How can I talk to the application over there?  In the weblog situation, which is what I am focusing on at the moment, there is already a framework set up for communication between computers. We call it the Internet.</p>
+
+<p>Instructions are sent to the application in a format called extensible markup language, or XML. This format is an Internet standard that conforms to certain rules which I will not explain here.</p>
+
+<p>If one is trying to talk to an application through its API, one is most likely trying to get the application to <em>do</em> something, to follow a certain procedure. When one tells an application to do something, one makes what is referred to as a remote procedure call, or RPC. The general term for the language that an application understands when sent an instruction over the Internet is XML-RPC API.</p>
+
+<p>So, using Google along the way, I wrote a program in Java that creates a document that conforms to both the XML standard and the API language of the weblog application of my choice (in this case, Movable Type). The program then opens a connection to the computer where the application is running, then sends the document and waits for a response. When the response comes, the program creates a file on my local hard disk that contains the response that came from the remote computer.</p>
+
+<p>The only thing my first program does is request a list of entry titles.</p>
+
+<p>To tell you the truth, this sort of thing really excites me. I guess you could tell that from the fact that this is the longest entry I have ever written. It probably took me longer to write this post than it did to write the program.</p>
+
+<p>Whoa, this <em>is</em> a long post. I suppose itʼs more for my benefit than anyone else. Well, if you make it this far, congratulations and have a wonderful day!</p>
+
+
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

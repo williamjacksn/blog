@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+<head>
+    <title>Find a Computer on the Active Directory With Just an IP Address</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/static/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/wanja.css">
+</head>
+
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="page-header">
+                <h1><a href="/">Subtle Coolness</a></h1>
+                <p class="text-muted"><a href="/alpha">alpha index</a> &middot; <a href="/chrono">chrono index</a></p>
+            </div>
+            <h2>Find a Computer on the Active Directory With Just an IP Address</h2>
+<p class="small"><a href="/2011/02/17/find-computer-ad-ip-address">&para;</a> 2011-02-17 11:13:00 +0000</p>
+<p>This is PowerShell.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>import-module activedirectory
+get-adcomputer -filter * -properties ipv4address | where {$_.ipv4address -eq '10.0.0.1'}
+</code></pre></div></div>
+
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

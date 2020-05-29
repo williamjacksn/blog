@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+    <title>I learned another incantation</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/static/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/wanja.css">
+</head>
+
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="page-header">
+                <h1><a href="/">Subtle Coolness</a></h1>
+                <p class="text-muted"><a href="/alpha">alpha index</a> &middot; <a href="/chrono">chrono index</a></p>
+            </div>
+            <h2>I learned another incantation</h2>
+<p class="small"><a href="/2008/01/29/another-incantation">&para;</a> 2008-01-29 10:37:00 +0000</p>
+<p>A few months ago I purchased a computer. For the first time in my life. It is a new-to-me <a href="http://support.apple.com/kb/SP48">Apple PowerBook G4</a> I bought off the son of a coworker of Rebecca. I have used Appleʼs Mac OS X quite a bit at school and always preferred it to my Windows XP (and my <a href="http://www.ubuntu.com/ubuntu">Linux</a>!), but Apple computers are expensive. So I got a good deal, and bought it, and have experienced no remorse whatsoever.</p>
+
+<p>Now with my job I have been supporting some Apple computers rather closely, and learning so much more about the operating system, specifically how I can configure just about anything with the Terminal. You know, type type type? Text-only? <em>UNIX</em>? It really is great.</p>
+
+<p>In a way, learning and using Linux (i.e. UNIX (i.e. <a href="http://en.wikipedia.org/wiki/POSIX">POSIX</a>)) for my server has prepared me for Mac OS X and helped me to appreciate it more.</p>
+
+<p>Also, there is remote administration. I can see the computers without leaving my desk. I can control them, even if someone else is logged in and using them. That would probably be a bit freaky: youʼre mousing around when suddenly, the mouse is moving on its own and there is nothing you can do about it.</p>
+
+<p>I havenʼt tried that on anyone yet.</p>
+
+<p>Here is the problem I ran into, however: I want to change a setting, but to do so I need to take control of the computer and open System Preferences, &amp;c. I donʼt want to interrupt the user to do it. I was considering this, when I remembered all the times I read tips online for configuring Mac OS X before I actually owned such a computer, and I remembered that the tip-giver would almost always give a Terminal command to effect the change, and said Terminal command would almost always begin with <code class="highlighter-rouge">defaults</code>.</p>
+
+<p>So, I did some digging and learned about the <code class="highlighter-rouge">defaults</code> command, and, long story short (“Too late!”), I came up with these magic words:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>defaults delete /Library/Preferences/com.apple.loginwindow PowerOffDisabled
+</code></pre></div></div>
+
+<p>This command shows the Restart and Shutdown buttons on the login window (so you can turn off the computer without logging in first). Having a Terminal command to do this is great because I can run such commands on the computers I administer without interrupting the current user. All behind the scenes. It is very clever.</p>
+
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

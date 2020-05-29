@@ -1,0 +1,112 @@
+<!doctype html>
+<html>
+<head>
+    <title>Putting Outlook Email Messages in Gmail</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="/static/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="/static/wanja.css">
+</head>
+
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8">
+            <div class="page-header">
+                <h1><a href="/">Subtle Coolness</a></h1>
+                <p class="text-muted"><a href="/alpha">alpha index</a> &middot; <a href="/chrono">chrono index</a></p>
+            </div>
+            <h2>Putting Outlook Email Messages in Gmail</h2>
+<p class="small"><a href="/2006/02/14/outlook-gmail">&para;</a> 2006-02-14 16:25:00 +0000</p>
+<p>I like <a href="http://mail.google.com/mail/help/about.html">Gmail</a>. I like the idea of never throwing away email
+messages. But before I had Gmail, I was already hoarding email. Iʼve
+been keeping my messages in archives since 2001.</p>
+
+<p>Ideally, I wanted to get these messages into Gmail so I could search for
+them just like all my other messages. This is how I did it.</p>
+
+<p><strong>These are the steps I took to get <em>email messages only</em> from Microsoft
+Outlook <code class="highlighter-rouge">.pst</code> files into Gmail.</strong></p>
+
+<p>Hereʼs what you need:</p>
+
+<ol>
+  <li>
+    <p>Microsoft Outlook. Iʼve been using Outlook for years, so all my
+email was stored in Microsoftʼs <code class="highlighter-rouge">.pst</code> format. It works really well
+for offline storage, as long as you have a copy of Outlook to read
+the files.</p>
+  </li>
+  <li>
+    <p><a href="http://www.mozilla.com/thunderbird/">Mozilla Thunderbird</a>. If you are not aware, Thunderbird is an email
+client like Microsoft Outlook, but it stores email in a different
+format. It uses something called <code class="highlighter-rouge">mbox</code> format, which is a standard
+across most email programs (except Microsoftʼs of course). The
+latest version of Thunderbird can import messages from Outlook.</p>
+  </li>
+  <li>
+    <p><a href="http://www.marklyon.org/gmail/download.htm">Mark Lyonʼs Google GMail Loader</a>. GML is the program that
+actually transfers the email messages from your computer to Gmail.
+It doesnʼt understand <code class="highlighter-rouge">.pst</code> files (yet), so thatʼs why we need
+Thunderbird: to get the messages into <code class="highlighter-rouge">mbox</code> format.</p>
+  </li>
+</ol>
+
+<p>Hereʼs what you do:</p>
+
+<ol>
+  <li>
+    <p>Make sure Outlook is installed correctly.</p>
+  </li>
+  <li>
+    <p>For simplicity, move all your messages into the Inbox or Sent Items
+of your Personal Folders. If you messages are in an external .<code class="highlighter-rouge">pst</code>
+file, open it using File &gt; Open &gt; Outlook Data File…</p>
+  </li>
+  <li>
+    <p>Exit Outlook. Install Thunderbird.</p>
+  </li>
+  <li>
+    <p>When you run Thunderbird for the first time, it will ask you about
+importing stuff from other programs. Choose Outlook from the list
+and click Next. If you had a lot of messages, this will take a
+while. Click Finish when you get the chance.</p>
+  </li>
+  <li>
+    <p>Check the folders in Thunderbird to make sure your messages really
+made it in. Exit Thunderbird. Youʼre almost done.</p>
+  </li>
+  <li>
+    <p>Download, extract and run the GMail Loader program (gmlw.exe). Click
+the Find button and go digging for Thunderbirdʼs mail files. The
+default location is:</p>
+
+    <p><code class="highlighter-rouge">C:\Documents and Settings\&lt;username&gt;\Application Data\Thunderbird\Profiles\Mail\Local Folders\</code></p>
+
+    <p>For each folder in Thunderbird, there
+are two files in that directory. One ends in <code class="highlighter-rouge">.msf</code>, and the other
+doesnʼt have an extension. Select the one without the extension.</p>
+  </li>
+  <li>
+    <p>In GML, set the File Type to “mBox (Less Strict - Solves Some
+Problems)”. Set the message type according to your preference. If
+you are uploading files that you sent, choose, obviously, “Mail I
+Sent (Goes to Sent Mail)”. If itʼs mail from other people to you,
+pick the other option.</p>
+  </li>
+  <li>
+    <p>Enter your Gmail address and click “Send To GMail”. Then wait.</p>
+  </li>
+</ol>
+
+<p>When the messages show up in your Gmail inbox, they wonʼt be threaded
+properly, but they will be there and searchable. And with Gmail, thatʼs
+what really counts.</p>
+
+
+
+        </div>
+    </div>
+</div>
+</body>
+</html>

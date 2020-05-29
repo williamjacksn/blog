@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/williamjackson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.subtlecoolness.com
+  * I am williamjackson (https://keybase.io/williamjackson) on keybase.
+  * I have a public key ASDKWK8ohQAF9DVoPMXaZscNP5b8Wlvvuh5zB1ch9TXR9Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ca58af28850005f435683cc5da66c70d3f96fc5a5befba1e73075721f535d1f50a",
+      "host": "keybase.io",
+      "kid": "0120ca58af28850005f435683cc5da66c70d3f96fc5a5befba1e73075721f535d1f50a",
+      "uid": "5807d8448fdffcc4d09727fcd262f619",
+      "username": "williamjackson"
+    },
+    "merkle_root": {
+      "ctime": 1513974441,
+      "hash": "063cf46308f752f55cdf585c1a5b507523d70fe4337c754b5aff56ad63d666ec1b26dfc1432dcbf0e00e5c3c04eb788b497a051039389dd1ebae02bd6678f464",
+      "hash_meta": "c495045c7576bd17a0c585f0f836bf56e26cb4bb52e9e589fe9af1effa4d1ae2",
+      "seqno": 1850905
+    },
+    "service": {
+      "hostname": "blog.subtlecoolness.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1513974579,
+  "expire_in": 504576000,
+  "prev": "ef4218196c75d45b14f49bcd75e7faad5e249d8220a9b718b62fe7ce614d977e",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgylivKIUABfQ1aDzF2mbHDT+W/Fpb77oecwdXIfU10fUKp3BheWxvYWTFA1Z7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2E1OGFmMjg4NTAwMDVmNDM1NjgzY2M1ZGE2NmM3MGQzZjk2ZmM1YTViZWZiYTFlNzMwNzU3MjFmNTM1ZDFmNTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2E1OGFmMjg4NTAwMDVmNDM1NjgzY2M1ZGE2NmM3MGQzZjk2ZmM1YTViZWZiYTFlNzMwNzU3MjFmNTM1ZDFmNTBhIiwidWlkIjoiNTgwN2Q4NDQ4ZmRmZmNjNGQwOTcyN2ZjZDI2MmY2MTkiLCJ1c2VybmFtZSI6IndpbGxpYW1qYWNrc29uIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEzOTc0NDQxLCJoYXNoIjoiMDYzY2Y0NjMwOGY3NTJmNTVjZGY1ODVjMWE1YjUwNzUyM2Q3MGZlNDMzN2M3NTRiNWFmZjU2YWQ2M2Q2NjZlYzFiMjZkZmMxNDMyZGNiZjBlMDBlNWMzYzA0ZWI3ODhiNDk3YTA1MTAzOTM4OWRkMWViYWUwMmJkNjY3OGY0NjQiLCJoYXNoX21ldGEiOiJjNDk1MDQ1Yzc1NzZiZDE3YTBjNTg1ZjBmODM2YmY1NmUyNmNiNGJiNTJlOWU1ODlmZTlhZjFlZmZhNGQxYWUyIiwic2Vxbm8iOjE4NTA5MDV9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYmxvZy5zdWJ0bGVjb29sbmVzcy5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zOCJ9LCJjdGltZSI6MTUxMzk3NDU3OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiJlZjQyMTgxOTZjNzVkNDViMTRmNDliY2Q3NWU3ZmFhZDVlMjQ5ZDgyMjBhOWI3MThiNjJmZTdjZTYxNGQ5NzdlIiwic2Vxbm8iOjE3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQIUpIqxXY15AASwzJOekSB5uprlR1Ti3qv3GeViaKIy6iL/UOwBF+02tmr/wB2SafsJ5lJYHbNJkezqbzZNkwQqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBF9GXfHtVj+DLbMn3rQ++m+Gk2aNQKP13THuIJFVWefKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/williamjackson
+
+==================================================================
