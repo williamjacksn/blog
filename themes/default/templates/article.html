@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ super() }} / {{ article.title | striptags }}{% endblock %}
+
+{% block main_content %}
+    <h1>{{ article.title }}</h1>
+    <p>by {{ article.author.name }} on {{ article.locale_date }}</p>
+
+    {{ article.content }}
+{% endblock %}

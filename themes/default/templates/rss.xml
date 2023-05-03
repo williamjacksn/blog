@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>{{ SITENAME }}</title>
+        <link>{{ SITEURL }}/</link>
+        <atom:link href="{{ FEED_DOMAIN }}/{{ page.url }}" rel="self" type="application/rss+xml"/>
+        <description>{{ SITESUBTITLE }}</description>
+
+    {% for a in articles %}
+        <item>
+            <title>{{ a.title | striptags }}</title>
+            <link> {{- FEED_DOMAIN }}/{{ a.url -}} </link>
+            <guid isPermaLink="false">/{{ a.url }}</guid>
+            <pubDate>{{ a.date | strftime('%a, %d %b %Y %H:%m:%S %z') }}</pubDate>
+            <description>{{ a.content | escape }}</description>
+        </item>
+    {% endfor %}
+    </channel>
+</rss>

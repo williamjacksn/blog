@@ -1,0 +1,27 @@
+title: Turtle&#x02bc;s Thoughts&trade; on Traveling
+urlname: traveling
+date: 1999-07-13T12:42
+
+As many of you know, I was given the opportunity to see much of the western United States over the past few weeks. In visiting my grandparents in both Utah and Idaho, my family chose to drive the distance rather than fly, to reduce expenses. Accordingly, I saw, heard, and smelled more &ldquo;land of the free&rdquo; than I wanted. I intend to pass on a few tips about this region of the country to you (count yourselves lucky) so you may more fully understand what I went through in reaching my destination.
+
+First of all, the entire state of New Mexico reeks. It smells worse than skunk. This is not a lie. If you live in New Mexico, or know of friends or relatives who do, and feel offended by this remark, please refer to the Legal Disclaimer below. The stench described above is nothing like the refinery towns of Texas. Oil has a pleasant smell. New Mexico has a gut-wrenching odor that causes drivers to swerve off of the road once they pass the state line. The police officers aren&#x02bc;t there just to keep illegal substances out of the state. They are the ones that call the paramedics. I saw six or seven cars in the ditch beside the road, and New Mexico is not known for its speedy emergency response time. I suggest you pack several dozen car fresheners &mdash; you know, the ones that look like pine trees &mdash; or a very large clothespin for each traveler. The former is usually best, depending on your personal pain tolerance. As for myself, I don&#x02bc;t think I can stand a pinched nose for very long &mdash; not to mention six hours.
+
+If you do find yourself in New Mexico, and have somehow survived the unique &ldquo;odiferosity&rdquo; of the state, do not be curious. Avoid Roswell at all costs. You may want to see the alien ship(s) there, but it&#x02bc;s not worth it. Because of its notoriety, everything in Roswell costs three times as much as one would expect. For the sake of your wallet, steer clear of Roswell!
+
+To dispel a few misleading or misunderstood &ldquo;facts&rdquo;: Columbine High School is just like any other high school. It is not in Littleton. It is not in the &ldquo;ghetto&rdquo;. The youngster who did the unthinkable there wasn&#x02bc;t even wearing a trenchcoat. There is no &ldquo;Trenchcoat Mafia&rdquo;. In fact, I met a lad that had graduated from said high school a few years ago, and now he is a successful and trustworthy balloon-animal-maker. Talk about an education! Several of his most celebrated works are _Turtle_, _Monkey_, and _Pinocchio Inside the Whale_. It&#x02bc;s fascinating &hellip;
+
+After much thought and consideration, I have chosen to add a little something to the article, just for kicks. From now on, at the end of each article a new &ldquo;Obscure and Semi-Known Fact of the Week&rdquo; will be featured. It may not be completely true, but that&#x02bc;s for you to decide. You may not care, but that&#x02bc;s for you to decide. It may not help you in any way, but that&#x02bc;s for you to decide. Ah, the wonder and beauty of the Legal Disclaimer! And now, the Obscure and Semi-Known Fact of the Week: Microsoft® Windows 2000&trade; is actually Windows NT&trade; Version 5.0.
+
+This is Turtle, signing off.
+
+---
+
+&copy;1999 MicroTurtle, Inc. All rights reserved.
+
+Legal Disclaimer: This article, or any part of it, may not be reproduced in any way, shape, or form, for any reason, commercial or otherwise, without express written permission from the author. This article is intended for general humor only, and not to poke fun at any race, religion, culture, civilization, continent, city, village, state, or emergency response team of said state. All characters and incidents conveyed in this article are works of fiction. Any resemblance to any character or incident conveyed in this article is strictly coincidental, unless the author says so. Some of the content of this article may be outright lies. That&#x02bc;s what &ldquo;fiction&rdquo; means. MicroTurtle, Inc., any divisions of MicroTurtle, Inc., and its employees cannot be found liable for any actions taken as a direct or indirect response to this article, whether against or in favor of any opinions expressed in it. In a nutshell, you can&#x02bc;t sue me for what I&#x02bc;m doing here. Live with it.
+
+Turtle&#x02bc;s Thoughts&trade; is a weekly publication of anything and everything that pops into Turtle&#x02bc;s head and that he would like to share with the general public. Turtle&#x02bc;s Thoughts&trade; is a division of MicroTurtle, Inc. __Tell your friends!__ Can I make myself any more clear? You as the reader are not doing your job in &ldquo;sharing the wealth&rdquo;, so to speak. I want to generate as many laughs and smiles as humanly possible. No one is forcing you to receive this publication. Any questions, comments, subscriptions, unsubscriptions, and/or other feedback concerning this or any other article in the Turtle&#x02bc;s Thoughts&trade; series can be sent to [minijackson@juno.com](mailto:minijackson@juno.com).
+
+Unless something really bad happens, Turtle&#x02bc;s Thoughts&trade; will reach you Tuesday Morning (Central Standard Time, USA) each week. Is it too expectative of me to add the &ldquo;USA&rdquo;?
+
+This article is best viewed using the &ldquo;Times New Roman&rdquo; font supplied with any Microsoft® Windows&trade; Operating System. If this or a similar font is not used, many characters may not be displayed correctly, if at all.

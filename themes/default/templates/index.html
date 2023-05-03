@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block site_links %}
+    chrono index &middot; <a href="{{ SITEURL if not RELATIVE_URLS }}/alpha">alpha index</a>
+{% endblock %}
+
+{% block main_content %}
+    <h1>All articles</h1>
+    {% for year, articles in articles | groupby('date.year') | reverse %}
+        <h2>{{ year }}</h2>
+        <ul>
+        {% for a in articles %}
+            <li>
+                <a href="{{ SITEURL if not RELATIVE_URLS }}/{{ a.url }}">{{ a.title }}</a>
+                <small>{{ a.locale_date }}</small>
+            </li>
+        {% endfor %}
+        </ul>
+    {% endfor %}
+{% endblock %}

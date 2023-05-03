@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block site_links %}
+    <a href="{{ SITEURL if not RELATIVE_URLS }}/">chrono index</a> &middot; alpha index
+{% endblock %}
+
+{% block main_content %}
+    <ul>
+    {% for a in articles | sort(attribute='title') %}
+        <li>
+            <a href="{{ SITEURL if not RELATIVE_URLS }}/{{ a.url }}">{{ a.title }}</a>
+            <small>({{ a.locale_date }})</small>
+        </li>
+    {% endfor %}
+    </ul>
+{% endblock %}
