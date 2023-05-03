@@ -1,3 +1,7 @@
+body {
+    max-width: 620px;
+}
+
 img {
     max-width: 100%;
 }
