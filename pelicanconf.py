@@ -45,3 +45,10 @@ SITESUBTITLE = 'An all-around decent fellow'
 
 # set RELATIVE_URLS from environment, default False
 RELATIVE_URLS = os.getenv('RELATIVE_URLS', 'false').lower() in ('1', 'on', 'true', 'yes')
+
+# some files need to land in special locations
+EXTRA_PATH_METADATA = {
+    'images/keybase.txt': {
+        'path': 'keybase.txt',
+    },
+}
