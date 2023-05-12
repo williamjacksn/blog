@@ -2,7 +2,7 @@ title: Pirate Tuesday
 urlname: pirate-tuesday
 date: 2004-05-26T10:40
 
-![Image: Pirate Flag](https://dl.dropboxusercontent.com/s/7seqzssxfztqdn0/20040526-pirate.jpg)
+![Image: Pirate Flag][a]
 
 I failed to mention the fact that yesterday was Pirate Tuesday. For those who were unaware, Pirate Tuesday is a
 frequently-occurring day of celebration and recognition dedicated to pirates and their culture.
