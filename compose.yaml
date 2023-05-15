@@ -6,6 +6,21 @@ services:
       - ./:/home/python/blog
     working_dir: /home/python/blog
 
+  gen-css:
+    entrypoint:
+      - /home/python/venv/bin/pygmentize
+      - -S
+      - default
+      - -f
+      - html
+      - -a
+      - .highlight
+    image: ghcr.io/williamjacksn/pelican
+    init: true
+    volumes:
+      - ./:/home/python/blog
+    working_dir: /home/python/blog
+
   shell:
     entrypoint:
       - /bin/sh
