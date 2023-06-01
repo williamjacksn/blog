@@ -12,7 +12,7 @@
         {% for a in articles %}
             <li>
                 <a href="{{ SITEURL if not RELATIVE_URLS }}/{{ a.url }}">{{ a.title }}</a>
-                <small>{{ a.locale_date }}</small>
+                <small>({{ a.locale_date }})</small>
             </li>
         {% endfor %}
         </ul>
