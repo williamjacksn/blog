@@ -1,5 +1,5 @@
 title: Quoting Orson Scott Card
-date: 2023-10:25
+date: 2023-10-25
 urlname: quoting-orson-scott-card
 
 From _The Memory of Earth_ by Orson Scott Card:
