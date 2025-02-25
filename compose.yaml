@@ -38,7 +38,7 @@ services:
     image: ghcr.io/williamjacksn/pelican
     init: true
     ports:
-      - 8000:8000
+      - '8000:8000'
     volumes:
       - ./:/home/python/blog
     working_dir: /home/python/blog/output
