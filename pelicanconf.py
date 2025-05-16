@@ -62,6 +62,9 @@ RELATIVE_URLS = os.getenv("RELATIVE_URLS", "false").lower() in (
 
 # some files need to land in special locations
 EXTRA_PATH_METADATA = {
+    "images/gitignore.txt": {
+        "path": ".gitignore",
+    },
     "images/keybase.txt": {
         "path": "keybase.txt",
     },
