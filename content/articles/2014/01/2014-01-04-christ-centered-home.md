@@ -2,7 +2,7 @@ title: Building a Christ-centered Home
 urlname: christ-centered-home
 date: 2014-01-04T14:17
 
-_\[This is the transcript of a talk I gave in church on Sunday, December 29,2013.\]_
+_\[This is the transcript of a talk I gave in church on Sunday, December 29, 2013.\]_
 
 At the beginning of this month, we hung on the wall a felt advent calendar my wife made. Each morning in December we
 take a shepherd, or wise man, or angel, or other character from the Christmas story out of a pocket and place it in the

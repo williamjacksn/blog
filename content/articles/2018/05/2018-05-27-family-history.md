@@ -59,11 +59,11 @@ I was eager to see Charles&#x02bc;s temple work get done, so I used the FamilySe
 person who had the ordinances reserved. He agreed to release his reservation so I could do the work.
 
 As I was about to reserve the ordinances and print an ordinance card, I had a thought: &ldquo;Check your relationship to
-this man.&rdquo; According to FamilySearch, Charles was the son of Rebecca&#x02bc;s third great grandmother, Mary Jane
+this man.&rdquo; According to FamilySearch, Charles was the son of Rebecca&#x02bc;s third great-grandmother, Mary Jane
 Black, through a second marriage.
 
 I took a closer look at the available information and I discovered a note that was left on Charles&#x02bc;s record by
-another user. This note just simply said,&ldquo;His mother is not Mary Jane Black.&rdquo; So, I began to check some of
+another user. This note just simply said, &ldquo;His mother is not Mary Jane Black.&rdquo; So, I began to check some of
 the available source documents, and it became clear that this was true. Charles was not related to Mary Jane Black, and
 therefore he was not related to Rebecca.
 
@@ -129,7 +129,7 @@ Joseph Smith explained the purpose of temple work when [he wrote][e],
 > the influence of the adversary. It has helped them feel closer to their families and closer to the Lord Jesus Christ.
 > They have learned that this work saves not just the dead; it saves all of us.
 
-Family history and temple service will bless you, and it will bless yourfamily [in both directions][g]:
+Family history and temple service will bless you, and it will bless your family [in both directions][g]:
 
 [g]: https://www.churchofjesuschrist.org/music/library/hymns/turn-your-hearts
 

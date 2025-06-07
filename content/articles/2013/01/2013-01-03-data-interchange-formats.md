@@ -19,7 +19,7 @@ need to be escaped in strings and what character encoding I ought to use.
 It seems like whenever I get deep into programming where text input and output is concerned, I always run into problems
 with character encodings. I complain about this to my programming-minded friends often.
 
-I honestly don&#x02bc;t know what use the JSON output will be, but I was in the mood so I added it.
+I honestly don&#x02bc;t know what use the JSON output will be, but I was in the mood, so I added it.
 
 I hope to write about my web app in greater detail in the future.
 

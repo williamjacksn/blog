@@ -11,7 +11,7 @@ God sent prophets to teach us the plan of salvation. We read their words in the 
 in a time when there are prophets living on the Earth with us and givings us counsel appropriate for our time.
 
 In addition to this, God has promised us the help of a member of the Godhead, the Holy Ghost. The Holy Ghost can give us
-personal counsel appropriate for the very moment and situation we may find ourself in.
+personal counsel appropriate for the very moment and situation we may find ourselves in.
 
 Today I would like to speak about how to seek out, recognize, and act upon the inspiration of the Holy Ghost.
 
