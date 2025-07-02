@@ -29,15 +29,11 @@ name = "blog"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
-    { name = "markdown" },
-    { name = "pelican" },
+    { name = "pelican", extra = ["markdown"] },
 ]
 
 [package.metadata]
-requires-dist = [
-    { name = "markdown", specifier = ">=3.8" },
-    { name = "pelican", specifier = ">=4.11.0" },
-]
+requires-dist = [{ name = "pelican", extras = ["markdown"], specifier = ">=4.11.0" }]
 
 [[package]]
 name = "docutils"
@@ -168,6 +164,11 @@ dependencies = [
 sdist = { url = "https://files.pythonhosted.org/packages/27/42/c06c1a7a3136729ece5a1f98544ede83edd593b3cd9110c9ad61bcc7f4dd/pelican-4.11.0.tar.gz", hash = "sha256:b90234487b818d391733acc1306b785934009749b1fc112b879df9bd89478bd8", size = 24148058, upload-time = "2025-01-15T17:05:00.554Z" }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/79/32/01df483f255438e792771b11ebe804af15957739e88673ca95c89289c0f4/pelican-4.11.0-py3-none-any.whl", hash = "sha256:aca6993f6b8a03a20f6828471089cb0504a4dca71e0d30b341fa80ab65668fa4", size = 24127868, upload-time = "2025-01-15T17:04:54.17Z" },
+]
+
+[package.optional-dependencies]
+markdown = [
+    { name = "markdown" },
 ]
 
 [[package]]
