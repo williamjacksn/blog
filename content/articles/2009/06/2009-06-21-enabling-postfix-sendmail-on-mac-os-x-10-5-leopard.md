@@ -29,13 +29,13 @@ First, you want to set `postfix` to run when your computer tries to send mail:
 Next, you want to tell `postfix` what the host name of the computer is:
 
 ```
-% sudo postconf -e myhostname=&lt;host-name-of-computer&gt;
+% sudo postconf -e myhostname=<host-name-of-computer>
 ```
 
 Next, tell `postfix` what SMTP server to use to send email:
 
 ```
-% sudo postconf -e relayhost=&lt;your-isps-smtp-server&gt;
+% sudo postconf -e relayhost=<your-isps-smtp-server>
 ```
 
 This works for me because my ISP does not require authentication to use their SMTP server. They only require that the
@@ -46,12 +46,12 @@ If the SMTP server you are using requires authentication, there are [a few extra
 [b]: https://web.archive.org/web/20100123200709/https://www.freelock.com/kb/postfix-relayhost
 
 ```
-% sudo echo &lt;you-isps-smtp-server&gt; &lt;username&gt;:&lt;password&gt; &gt;&gt; /etc/postfix/sasl_passwd
+% sudo echo <you-isps-smtp-server> <username>:<password> >> /etc/postfix/sasl_passwd
 % sudo postconf -e smtp_sasl_auth_enable=yes
 % sudo postconf -e smtp_sasl_password_maps=hash:/etc/postfix/sasl_passwd
 ```
 
-At this point, if `postfix` tries to send email to `someone@&lt;host-name-of-computer&gt;`, the email will be delivered
+At this point, if `postfix` tries to send email to `someone@<host-name-of-computer>`, the email will be delivered
 locally. If your email for this host name is handled by some other server, tell `postfix` that this is not the final
 destination for email sent to that host name:
 
