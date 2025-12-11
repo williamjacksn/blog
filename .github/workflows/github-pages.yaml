@@ -1,66 +1,43 @@
-{
-  "concurrency": {
-    "cancel-in-progress": true,
-    "group": "github-pages"
-  },
-  "env": {
-    "description": "This workflow was generated from ci/gen-github-workflows.py"
-  },
-  "jobs": {
-    "build": {
-      "name": "Build site",
-      "runs-on": "ubuntu-latest",
-      "steps": [
-        {
-          "name": "Check out repository",
-          "uses": "actions/checkout@v5"
-        },
-        {
-          "name": "Configure Pages",
-          "uses": "actions/configure-pages@v5"
-        },
-        {
-          "name": "Build site",
-          "run": "sh ci/build.sh"
-        },
-        {
-          "name": "Upload artifact",
-          "uses": "actions/upload-pages-artifact@v3",
-          "with": {
-            "path": "output"
-          }
-        }
-      ]
-    },
-    "deploy": {
-      "environment": {
-        "name": "github-pages",
-        "url": "${{ steps.deployment.outputs.page_url }}"
-      },
-      "name": "Deploy site",
-      "needs": "build",
-      "runs-on": "ubuntu-latest",
-      "steps": [
-        {
-          "id": "deployment",
-          "name": "Deploy to GitHub Pages",
-          "uses": "actions/deploy-pages@v4"
-        }
-      ]
-    }
-  },
-  "name": "Build and deploy site",
-  "on": {
-    "push": {
-      "branches": [
-        "master"
-      ]
-    },
-    "workflow_dispatch": {}
-  },
-  "permissions": {
-    "contents": "read",
-    "id-token": "write",
-    "pages": "write"
-  }
-}
+name: Build and deploy site
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  id-token: write
+  pages: write
+
+concurrency:
+  cancel-in-progress: true
+  group: github-pages
+
+jobs:
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v5
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Build site
+        run: sh ci/build.sh
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    name: Deploy site
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
