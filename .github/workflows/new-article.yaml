@@ -1,4 +1,4 @@
-name: Create a new article file
+name: Create a new draft article
 
 on:
   workflow_dispatch:
@@ -16,16 +16,19 @@ permissions: { }
 
 jobs:
   new-article:
-    name: Create a new article file
+    name: Create a new draft article
     runs-on: ubuntu-latest
     permissions:
       actions: write
       contents: write
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
       - name: Install uv
         run: sh ci/install-uv.sh
 
-      - name: Create a new article file
+      - name: Create a new draft article
         run: uv run ci/new-article.py ${{ toJSON(inputs.title) }} ${{ toJSON(inputs.urlname) }}
 
       - name: Commit and push if changes
