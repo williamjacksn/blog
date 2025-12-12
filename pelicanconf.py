@@ -3,7 +3,8 @@ import os
 # WARNING Feeds generated without SITEURL set properly may not be valid
 SITEURL = "https://blog.subtlecoolness.com"
 
-# WARNING No timezone information specified in the settings. Assuming your timezone is UTC for feed generation.
+# WARNING No timezone information specified in the settings. Assuming your timezone is
+# UTC for feed generation.
 TIMEZONE = "America/Chicago"
 
 # default path is working directory, so specify to 'content' directory
