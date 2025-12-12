@@ -10,7 +10,7 @@ of sorts out of my very fidst smail address, inflicting my
 awkward writing on family and friends.
 
 I've used Movable Type. I've used WordPress.
-I've used LiveJournal and Xanga and Tumblr and &hellip;
+I've used Blogger and LiveJournal and Xanga and Tumblr and &hellip;
 not MySpace. I don't think I ever had a MySpace
 page.
 
