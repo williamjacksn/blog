@@ -1,0 +1,41 @@
+name: Create a new article file
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: Title of the new article
+        required: true
+        type: string
+      urlname:
+        description: URL name of the new article (no-spaces)
+        required: true
+        type: string
+
+permissions: { }
+
+jobs:
+  new-article:
+    name: Create a new article file
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      contents: write
+    steps:
+      - name: Install uv
+        run: sh ci/install-uv.sh
+
+      - name: Create a new article file
+        run: uv run ci/new-article.py ${{ toJSON(inputs.title) }} ${{ toJSON(inputs.urlname) }}
+
+      - name: Commit and push if changes
+        id: commit
+        run: sh ci/commit-and-push.sh
+        env:
+          COMMIT_MESSAGE: Add a new article ${{ toJSON(inputs.title) }}
+
+      - name: Dispatch workflow to build pages
+        if: steps.commit.outputs.pushed == 'true'
+        run: gh workflow run github-pages.yaml
+        env:
+          GH_TOKEN: '${{ github.token }}'

@@ -24,6 +24,8 @@ AUTHOR = "William Jackson"
 # default location to save articles is at the top of the output directory
 ARTICLE_SAVE_AS = "{date:%Y/%m/%d}/{urlname}.html"
 ARTICLE_URL = "{date:%Y/%m/%d}/{urlname}"
+DRAFT_SAVE_AS = "drafts/{date:%Y/%m/%d}/{urlname}.html"
+DRAFT_URL = "drafts/{date:%Y/%m/%d}/{urlname}"
 
 # I don't want the default archive, author, and category pages
 ARCHIVES_SAVE_AS = ""
