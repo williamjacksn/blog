@@ -1,5 +1,11 @@
+@font-face {
+    font-family: "Gowun Dodum";
+    src: url("gowun-dodum-regular.ttf") format("truetype");
+}
+
 body {
     max-width: 620px;
+    font-family: "Gowun Dodum", sans-serif;
 }
 
 img {
