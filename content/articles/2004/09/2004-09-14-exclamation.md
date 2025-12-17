@@ -3,7 +3,7 @@ urlname: exclamation
 date: 2004-09-14T04:53
 
 Hey! I advocate correct grammar. In writing, however, I never really feel certain that I
-use !&nobreak;s in the correct manner. How much emotion must a sentence convey to merit
+use !&NoBreak;s in the correct manner. How much emotion must a sentence convey to merit
 an !? In the next few moments, I will present and analyze several examples out of
 context in an attempt to resolve superficially my problem. When reading the following
 sentences aloud, please inflect the appropriate emotion as indicated by the supplied
