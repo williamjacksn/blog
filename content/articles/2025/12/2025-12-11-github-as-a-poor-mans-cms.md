@@ -5,7 +5,7 @@ status: draft
 
 So I&#x02bc;ve had this blog for a while. I have gone
 through several backends in its long lifetime. The oldest
-articles actually predate the blog &mdash; I ran a newletter
+articles actually predate the blog &mdash; I ran a newsletter
 of sorts out of my very first email address, inflicting my
 awkward writing on family and friends.
 

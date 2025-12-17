@@ -92,8 +92,8 @@ forever thankful that my parents worked to build a Christ-centered home where I 
 my testimony could grow.
 
 You may recall the story of the Liahona, that curious brass ball that acted as a compass to Lehi and his family as they
-travelled through the wilderness. When they had faith that God would use the Liahona to lead them to a land of promise,
-the Liahona led them. After the travellers arrived on this continent and inherited the land that God promised them, it
+traveled through the wilderness. When they had faith that God would use the Liahona to lead them to a land of promise,
+the Liahona led them. After the travelers arrived on this continent and inherited the land that God promised them, it
 appears the Liahona&#x02bc;s purpose was fulfilled. But rather than discard it, prophets handed down this sacred object
 through the generations until it was cared for by a man named Alma.
 
@@ -167,6 +167,9 @@ I echo that testimony. We can find joy and love in our homes when we work to put
 In the name of Jesus Christ, amen.
 
 [a]: https://www.churchofjesuschrist.org/study/general-conference/2013/04/for-peace-at-home
+
 [b]: https://www.churchofjesuschrist.org/study/scriptures/bofm/2-ne/25?id=26#26
+
 [c]: https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/37?id=44-45#44
+
 [d]: https://www.churchofjesuschrist.org/study/manual/family-home-evening-resource-book/introduction?id=p20#p20
