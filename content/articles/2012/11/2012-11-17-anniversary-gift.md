@@ -4,7 +4,7 @@ date: 2012-11-17T15:38
 
 For our fifth anniversary my wife made me this nativity advent calendar.
 
-[![Anniversary gift from my wife](https://dl.dropboxusercontent.com/s/b7extqrvkcgbk4z/20121117-nativity-calendar.jpg)](http://instagr.am/p/SJWHVKLl62/)
+[![Anniversary gift from my wife]({static}/images/2012-11-17-nativity-calendar.jpg)](http://instagr.am/p/SJWHVKLl62/)
 
 The pieces go in the pockets, and each day of December you take a piece out and build the scene. This is just like a calendar we had in my home growing up.
 
