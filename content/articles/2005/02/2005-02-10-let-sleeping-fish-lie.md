@@ -2,7 +2,7 @@ title: Let Sleeping Fish Lie
 urlname: let-sleeping-fish-lie
 date: 2005-02-10T00:23
 
-![Image: Couple of the year!](https://dl.dropboxusercontent.com/s/bt6uol34ve93wtl/20050210-lojack_closeup_good.jpg)
+![Image: Couple of the year!]({static}/images/2005-02-10-lojack_closeup_good.jpg)
 
 One of my sisters &mdash; the one that got translated into Spanish &mdash; married areally cool guy last July. It was July, so the colors for her weddingreception were blue and red. My mother already owned a red betta at thetime, so she purchased three more: one red and two blue.
 

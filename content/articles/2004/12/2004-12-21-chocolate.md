@@ -2,7 +2,7 @@ title: Chocolate
 urlname: chocolate
 date: 2004-12-21T07:00
 
-![Image: Reese&#x02bc;s® Peanut Butter Cups](https://dl.dropboxusercontent.com/s/zdpk21n7mtciueq/20041221-pbcups.gif)
+![Image: Reese&#x02bc;s® Peanut Butter Cups]({static}/images/2004-12-21-pbcups.gif)
 
 On the Saturday evening of December 4 just past, I was at the LDSInstitute of Religion. That evening, many young people gathered to makegingerbread houses and watch a performance. The &ldquo;gingerbread&rdquo; was reallygraham crackers, but the performance was real. I was privileged to be apart of &ldquo;The Forgotten Carols&rdquo; by Michael McLean.
 

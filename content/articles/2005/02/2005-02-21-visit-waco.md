@@ -4,7 +4,7 @@ date: 2005-02-21T03:05
 
 As some have already discovered, I traveled to Waco to visit my familythis past weekend. So many exciting things and blogworthy happened, thatI had to take notes because I did not have access to a computer. I alsohave pictures.
 
-![Cool brothers](https://dl.dropboxusercontent.com/s/8tjeslp43pzfg3c/20050221-cool-bros.jpg)
+![Cool brothers]({static}/images/2005-02-21-cool-bros.jpg)
 
 To begin, my brothers are the coolest brothers. When I arrived at theresidence of my parents, my parents were not there, but these guys were(sans the short one). We cleaned the house, then went to the library. Ofcourse, none of us went to the library for books. We went to the libraryfor computers. I was going to use one, but I exercised some self controland moderation, and instead browsed the fiction section.
 
@@ -12,7 +12,7 @@ We also went to the library because in the parking lot there is a waterstore boo
 
 Back at the house we learned why none of us would ever see a DashboardConfessional concert. We don&#x02bc;t know the words to all the songs. We werewatching some concerts on a DVD, and if they are any indication, you arerequired to know all the words to all the songs to be admitted. Maybethe restriction only applies to the first twelve rows. Or girls. I thinkyou have to take a test to get in, one of those fill-in-the-blank testswith just a song title at the top and blanks on the rest of the page.Not my style.
 
-![Peanut butter cookies](https://dl.dropboxusercontent.com/s/kb1xjrn5c26783k/20050221-pb-cookies.jpg)
+![Peanut butter cookies]({static}/images/2005-02-21-pb-cookies.jpg)
 
 We still needed to eat dinner. For some reason I always eat fish sticksand tater tots when I visit Waco. The aforementioned fish sticks andtater tots were cooked and cooling when Daniel suggested wemake cookies or brownies or something. I suggested we eat first, but mybrother was afraid eating dinner first would spoil his appetite formaking cookies. We risked it. With dinner out of the way, and noappetites spoiled, we began mixing up some deluxe peanut butter cookies.
 

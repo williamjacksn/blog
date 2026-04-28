@@ -2,7 +2,7 @@ title: Thanksgiving; What Else?
 urlname: thanksgiving
 date: 2004-11-26T02:31
 
-![Image: Thanksgiving with the family](https://dl.dropboxusercontent.com/s/kidsmg626yes8cq/20041126-thanksgiving.jpg)
+![Image: Thanksgiving with the family]({static}/images/2004-11-26-thanksgiving.jpg)
 
 The Thanksgiving holiday has already been absolutely unbelievable. My favorite part, of course, has been spending time with my family. Sure, I only live 100 miles or so away from them, but I don&#x02bc;t get to visit them very often, and certainly not for this extended length of time.
 

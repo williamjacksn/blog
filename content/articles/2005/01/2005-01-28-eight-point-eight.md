@@ -2,7 +2,7 @@ title: Eight Point Eight Slash Ten
 urlname: eight-point-eight
 date: 2005-01-28T08:47
 
-[![Image: Two&#x02bc;d!!](https://dl.dropboxusercontent.com/s/5bsrwq0r6o1xzzn/20050128-twod.jpg)](http://homestarrunner.com/tgs6.html)
+[![Image: Two&#x02bc;d!!]({static}/images/2005-01-28-twod.jpg)](http://homestarrunner.com/tgs6.html)
 
 8.8/10. I just rated my day. [My sisters&#x02bc; habits](http://www.xanga.com/mary_jay/195007212/item.html) are rubbingoff on me.
 

@@ -2,7 +2,7 @@ title: Happy Valentine&#x02bc;s Day!
 urlname: valentines-day
 date: 2005-02-15T06:07
 
-![Happy Valentine&#x02bc;s Day!](https://dl.dropboxusercontent.com/s/2ikgzcqc9koemx5/20050215-taped-fortune.jpg)
+![Happy Valentine&#x02bc;s Day!]({static}/images/2005-02-15-taped-fortune.jpg)
 
 A day late and a dollar short, I wanted to wait until my Valentine&#x02bc;s Daywas over before I commented on how much I loved it. At his very momentI&#x02bc;m rather overwhelmed at the happiness I seem to be displaying in thepicture. I didn&#x02bc;t realize at the time how content my smile made me look.It was a happy day, for some reason.
 
@@ -12,4 +12,4 @@ To the right is a blue smiling heart. That was a gift from one of mycoworkers. T
 
 Goodness, I have skinny arms. Anyway, on to the fortune:
 
-![An admirer is concealing his affection for you.](https://dl.dropboxusercontent.com/s/n0nbiy2e9pz0vho/20050215-his-affection.jpg)
+![An admirer is concealing his affection for you.]({static}/images/2005-02-15-his-affection.jpg)

@@ -2,7 +2,7 @@ title: I Couldn&#x02bc;t Think of a Good Title for This One
 urlname: good-title
 date: 2005-02-07T17:14
 
-![Is she my girlfriend? Is she not?](https://dl.dropboxusercontent.com/s/y2p1ehzim6mbojm/20050207-girlfriend-pose.jpg)
+![Is she my girlfriend? Is she not?]({static}/images/2005-02-07-girlfriend-pose.jpg)
 
 Today I went to Family Home Evening at the stake center instead of myusual place. I always start with the end of the day, and skip thebeginning. Let me start over.
 
