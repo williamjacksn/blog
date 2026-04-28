@@ -22,7 +22,7 @@ took a few minutes for everything to come together in her little brain, but she
 eventually came to the conclusion, with wide eyes, &ldquo;Maybe we can get on the train
 at the train station!&rdquo;
 
-![Rocks at the train station](https://dl.dropboxusercontent.com/s/6p1fewf18wmcnv3/20120414-train-1.jpg)
+![Rocks at the train station]({static}/images/2012-04-14-train-1.jpg)
 
 We packed a bottle of water and a few snacks into my lunchbox, or &ldquo;Emily&#x02bc;s
 briefcase&rdquo;, gave Rebecca and Molly some kisses, and drove to the station. We
@@ -31,7 +31,7 @@ benches we could find. Finally, a train came by, but it was not going the way we
 to go and it didn&#x02bc;t even stop at our station. Emily was impressed with how fast
 it went.
 
-![Waiting for the train](https://dl.dropboxusercontent.com/s/qa7wi7dvw0bg4ne/20120414-train-2.jpg)
+![Waiting for the train]({static}/images/2012-04-14-train-2.jpg)
 
 We waited a little longer and our train arrived. At first, it looked like Emily was
 apprehensive about getting on. She wanted me to carry her. But once we were on the train
@@ -52,7 +52,7 @@ is right in front of the Austin Convention Center, so we popped in, took care of
 business, and got back on the train. After about ten minutes we started our journey back
 home.
 
-![Riding the train](https://dl.dropboxusercontent.com/s/o8zimfxnaivqmu3/20120414-train-3.jpg)
+![Riding the train]({static}/images/2012-04-14-train-3.jpg)
 
 There were quite a few more people riding northbound, including a little boy who looked
 about two years old riding with his father. The boy had a complete meltdown and cried

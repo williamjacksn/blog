@@ -9,4 +9,4 @@ Life is good.
 
 ![Formal Friday][b]
 
-[b]: https://dl.dropboxusercontent.com/s/irg62ogclj6k28y/20111202-formal-friday.jpg
+[b]: {static}/images/2011-12-02-formal-friday.jpg
