@@ -35,4 +35,4 @@ Bingo! I run iTunes and control it like normal. Even though I amcontrolling ever
 
 So basically, I went though this whole ordeal so I could play the musicI want, on the speakers I want, in the room I want. I think it&#x02bc;s worthit.
 
-![Desktops within desktops](https://dl.dropboxusercontent.com/s/yvaa2znivxm3agv/20060816-rdc-itunes.png)
+![Desktops within desktops]({static}/images/2006-08-16-rdc-itunes.png)

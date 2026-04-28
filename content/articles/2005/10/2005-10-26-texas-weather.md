@@ -2,7 +2,7 @@ title: More Remarks Concerning Texas and Weather
 urlname: texas-weather
 date: 2005-10-26T16:53
 
-![Pumpkins](https://dl.dropboxusercontent.com/s/1j9zugxo1s43jgp/20051026-pumpkins.jpg)
+![Pumpkins]({static}/images/2005-10-26-pumpkins.jpg)
 
 >  
 > Texas and &ldquo;subtle&rdquo;:  

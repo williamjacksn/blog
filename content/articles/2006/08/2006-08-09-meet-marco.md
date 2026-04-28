@@ -2,7 +2,7 @@ title: Meet Marco
 urlname: meet-marco
 date: 2006-08-09T08:41
 
-![Image: Meet Marco.](https://dl.dropboxusercontent.com/s/c8sncvgg0ipmt26/20060809-marco.jpg)
+![Image: Meet Marco.]({static}/images/2006-08-09-marco.jpg)
 
 When I came home from my vacation in Utah and Idaho,Marco was already a resident in my apartment. Marco isfrom Florida.
 

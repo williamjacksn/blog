@@ -2,7 +2,7 @@ title: Suspenders
 urlname: suspenders
 date: 2005-12-18T06:57
 
-![Suspenders](https://dl.dropboxusercontent.com/s/qgcevv9i92j3lao/20051218-suspenders.jpg)
+![Suspenders]({static}/images/2005-12-18-suspenders.jpg)
 
 >  
 > par·a·noi·a: wearing a belt and suspenders simultaneously.

@@ -6,13 +6,13 @@ Overall, I really enjoy using the Gmail interface; but there is one thing that b
 
 I use Firefox the most, so we&#x02bc;ll start with it. Here&#x02bc;s a clip from the contact list showing a contact and a group:
 
-![Gmail contact list in Firefox](https://dl.dropboxusercontent.com/s/vdrwf2q32j10qbf/20060812-gmail-contacts-ff.png)
+![Gmail contact list in Firefox]({static}/images/2006-08-12-gmail-contacts-ff.png)
 
 The only difference between the display of a contact and a group is that for a contact, the actual email address is shown, and for a group, the number of contacts in the group is shown.
 
 Now take a look at the same clip in Internet Explorer:
 
-![Gmail contact list in Internet Explorer](https://dl.dropboxusercontent.com/s/fv5pr4j6rarv6wi/20060812-gmail-contacts-ie.png)
+![Gmail contact list in Internet Explorer]({static}/images/2006-08-12-gmail-contacts-ie.png)
 
 The big difference I am pointing out here is that group names are bold and contact names are not.
 

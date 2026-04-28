@@ -8,4 +8,4 @@ The challenge is to write a poem that is made up of exactly one hundredcharacter
 
 Ideally, poems should be submitted as ten lines with ten characters oneach line. Neither the deadline nor method of judging has yet beendetermined, but extra points will be awarded for rhyme, meter, andgeneral cleverness.
 
-There is [an official entry form](https://dl.dropboxusercontent.com/s/fyqx8r6453cnkcy/20060814-challenge.pdf) if you want to submit your entryby post or distribute the challenge around you school or place of work.That would be just plain cool.
+There is [an official entry form]({static}/images/2006-08-14-challenge.pdf) if you want to submit your entryby post or distribute the challenge around you school or place of work.That would be just plain cool.
