@@ -2,7 +2,7 @@ title: Happy Father&#x02bc;s Day
 urlname: fathers-day
 date: 2010-06-20T19:53
 
-![Emily on her slide](https://dl.dropboxusercontent.com/s/49ralsqpo63gnyc/20100620-em-slide.jpg)
+![Emily on her slide]({static}/images/2010-06-20-em-slide.jpg)
 
 Today is my first Father&#x02bc;s Day as a father. Emily recently discovered and fell in love with our slide. Well, I told her it was _her_ slide, because she&#x02bc;s the only kid we have. Emily runs this place, did you know?
 

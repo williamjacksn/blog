@@ -18,7 +18,7 @@ Now, enough marketing. Let&#x02bc;s get down to business: creating, modifying, a
 
 In __Group Policy Management Editor__, browse down to __Computer Configuration\\Preferences\\Windows Settings\\Shortcuts__.
 
-![Group Policy Preferences: Shortcuts](https://dl.dropboxusercontent.com/s/ye9zchrp8mq7bhn/20100505-gpp-shortcuts.jpg)
+![Group Policy Preferences: Shortcuts]({static}/images/2010-05-05-gpp-shortcuts.jpg)
 
 Right-click on __Shortcuts__ and choose __New → Shortcut__. Set the __Action__ to __Replace__. __Replace__ is a good choice for __Action__ because it will create a shortcut if it doesn&#x02bc;t already exist, it will overwrite a shortcut that already exists, and it will give you the option of removing the shortcut when the computer or user falls out of the scope of the Group Policy Object.
 
@@ -38,7 +38,7 @@ Set __Target path__ to the target of the shortcut. In this example, I want the s
 
 If you want, you can choose an icon for the shortcut by clicking on the __\[&hellip;\]__ button next to __Icon file path__.
 
-![Group Policy Preferences: Shortcuts Example](https://dl.dropboxusercontent.com/s/dxlvpxddl6wxwsa/20100505-gpp-shortcuts-example.jpg)
+![Group Policy Preferences: Shortcuts Example]({static}/images/2010-05-05-gpp-shortcuts-example.jpg)
 
 Save the Shortcut and link the Group Policy Object. When Group Policy updates on your clients, behold a shortcut appear (or be replaced) on the desktop!
 

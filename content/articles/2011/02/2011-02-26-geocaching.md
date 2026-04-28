@@ -16,7 +16,7 @@ Today Emily and I found it!
 
 ![Emily found the geocache][b]
 
-[b]: https://dl.dropboxusercontent.com/s/jsifhr7eus7wei5/20110226-em-geocache.jpg
+[b]: {static}/images/2011-02-26-em-geocache.jpg
 
 We decided to take a walk down to the duck pond to try for another cache. We were
 feeling lucky! Also, Emily really wanted to &ldquo;See ducks!&rdquo; She repeated that

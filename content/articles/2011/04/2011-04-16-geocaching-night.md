@@ -26,7 +26,7 @@ wanted to touch every single tree. Then I saw this at the base of a cluster of t
 
 ![The geocache][b]
 
-[b]: https://dl.dropboxusercontent.com/s/drzv4mh0wxgb4js/20110416-geocache.jpg
+[b]: {static}/images/2011-04-16-geocache.jpg
 
 Let me tell you right now I was a little freaked out because it looked intensely real.
 Emily was just as curious as ever. She has no idea what a skull is. So, I carefully

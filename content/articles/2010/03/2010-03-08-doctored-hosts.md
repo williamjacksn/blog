@@ -12,11 +12,11 @@ Deploying the doctored `hosts` file on a single computer is elementary. Deployin
 
 In __Group Policy Management Editor__, browse down to __Computer Configuration\\Preferences\\Windows Settings\\Files__.
 
-![Group Policy Preferences: Files](https://dl.dropboxusercontent.com/s/ta4wevnic9s8g0v/20100308-gpp-files.jpg)
+![Group Policy Preferences: Files]({static}/images/2010-03-08-gpp-files.jpg)
 
 Right-click on __Files__ and choose __New → File__. Set the __Action__ to __Replace__ (__Update__ does not work, because it will not overwrite a file that already exists; it will only change attributes). Set the __Source file(s)__ to `%gptpath%\\files\\hosts` and the __Destination File__ to `%systemdir%\\drivers\\etc\\hosts`. Check the __Archive Attribute__, but leave everything else unchecked.
 
-![Group Policy Preferences: hosts](https://dl.dropboxusercontent.com/s/4t6cnaxle4mp4vm/20100308-gpp-hosts.jpg)
+![Group Policy Preferences: hosts]({static}/images/2010-03-08-gpp-hosts.jpg)
 
 `%gptpath%` is a magic little variable that resolves to a folder in `SYSVOL` where all the settings for this Group Policy Object are saved. In this case, it will resolve to `...\\Policies\\{gpo-unique-id}\\Machine`. Inside that folder you should already see two more folders: `Preferences` and `Scripts`. Create a new folder called `Files` and put the hosts file you downloaded from the previously-linked website in the `Files` folder.
 
