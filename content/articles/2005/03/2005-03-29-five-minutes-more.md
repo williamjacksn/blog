@@ -2,7 +2,7 @@ title: Five Minutes More
 urlname: five-minutes-more
 date: 2005-03-29T06:28
 
-![Five Minutes More](https://dl.dropboxusercontent.com/s/yxts7e1x887zs7r/20050329-fiveminutesmore.jpg)
+![Five Minutes More]({static}/images/2005-03-29-fiveminutesmore.jpg)
 
 >  
 > Write a poem on a napkin.  

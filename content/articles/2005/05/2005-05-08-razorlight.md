@@ -4,7 +4,7 @@ date: 2005-05-08T17:22
 
 ![Razorlight][a]
 
-[a]: https://dl.dropboxusercontent.com/s/idc6299hz0a9l3r/20050508-razorlight.jpg
+[a]: {static}/images/2005-05-08-razorlight.jpg
 
 [Razorlight][b] are, from left to right, Björn Ågren (guitar, backing vocals), Carl Dalemo (bass, backing vocals),
 Johnny Borrell (vocals, guitar), and Andy Burrows (drums).

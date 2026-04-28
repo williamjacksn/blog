@@ -14,6 +14,6 @@ Okay, I was worried that I wouldn&#x02bc;t be able to get another ticket right n
 
 As for the show, it was amazing! You must see it. Lucky for you (_family, nudge nudge_), the show is [coming to Salt Lake City](http://www.modernmillietour.com/tourlocations.php#SALT%20LAKE%20CITY) later this month. Sarah, I know you will love it.
 
-![Thoroughly Modern Millie](https://dl.dropboxusercontent.com/s/sxnszg881tewtpp/20050413-modernmillie.jpg)
+![Thoroughly Modern Millie]({static}/images/2005-04-13-modernmillie.jpg)
 
 Without spoiling anything, _Thoroughly Modern Millie_ is the story of a young Kansas girl that moves to New York City in the 1920s to begin her life as &ldquo;the modern woman&rdquo;. If you like tap dancing stenographers in bright orange stockings, or if you don&#x02bc;t, you must see this show.
