@@ -2,7 +2,7 @@ title: Say Anything Besides Shoplifting
 urlname: say-anything
 date: 2004-10-13T18:49
 
-![Rain](https://dl.dropboxusercontent.com/s/8ljgdflnh85z8fq/20041013-rain.jpg)
+![Rain]({static}/images/2004-10-13-rain.jpg)
 
 I still love rain. This batch came out of nowhere and hit the city hard. Cars were sliding everywhere, even into other cars. I got wet; but I got to wear my cabby hat and my newly-dubbed &ldquo;shoplifting coat&rdquo;.
 

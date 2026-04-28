@@ -2,7 +2,7 @@ title: So I&#x02bc;m Not a Subculture
 urlname: subculture
 date: 2004-10-14T04:28
 
-![Do I look mainstream?](https://dl.dropboxusercontent.com/s/l89wpitmad5ns4d/20041014-mainstream.jpg)
+![Do I look mainstream?]({static}/images/2004-10-14-mainstream.jpg)
 
 I am so mainstream that I went to take the [Which Subculture Are You Quiz](http://quizilla.com/users/arsenicsugar/quizzes/Which%20Subculture%20Are%20You%3F/), and none of the questions had answers that I could honestly choose. Six questions, seven answers apiece: forty-two radio buttons, and not a single one applied to me.
 
