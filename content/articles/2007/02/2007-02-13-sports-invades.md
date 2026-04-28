@@ -2,7 +2,7 @@ title: Sports section invades front page
 urlname: sports-invades
 date: 2007-02-13T23:17
 
-![Sports invasion](https://dl.dropboxusercontent.com/s/5ejnrfwov0y4tc4/20070213-sports-invasion.jpg)
+![Sports invasion]({static}/images/2007-02-13-sports-invasion.jpg)
 
 On Tuesday morning, the sports section of _The Daily Texan_ invaded thefront page, claiming territory once the dominion of local non-sports news.
 

@@ -4,7 +4,7 @@ date: 2006-09-11T01:03
 
 I should have told you two weeks ago that I saw _The Sound of Music_ onthe big screen.
 
-![Image: Wide shot of the Paramount Theatre](https://dl.dropboxusercontent.com/s/5fdt4cmbqj1i605/20060826-sound-of-music.jpg)
+![Image: Wide shot of the Paramount Theatre]({static}/images/2006-08-26-sound-of-music.jpg)
 
 I should have told you a week ago that I visited my parents over LaborDay Weekend and had my mother cut all the hair off the top of my head.
 

@@ -2,7 +2,7 @@ title: Newspaper publishes wrong verb tense on front page
 urlname: wrong-verb-tense
 date: 2006-09-13T16:56
 
-![Image: The Daily Texan, grammatically challenged](https://dl.dropboxusercontent.com/s/corcmch4qlq0zwx/20060913-verb-tense.jpg)
+![Image: The Daily Texan, grammatically challenged]({static}/images/2006-09-13-verb-tense.jpg)
 
 Classes continued normally at the University of Texas yesterday asanother issue of _The Daily Texan_ was released. Many students wereunaware as they perused the newspaper that they were holding a piece ofjournalistic literature with a flagrant grammatical error on the cover.
 

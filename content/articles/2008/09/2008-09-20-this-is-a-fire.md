@@ -2,7 +2,7 @@ title: This is a fire
 urlname: this-is-a-fire
 date: 2008-09-20T16:22
 
-![Brother Johnson and Brother McKenna around the fire](https://dl.dropboxusercontent.com/s/v6kx9lwtwk10p4z/20080919-campfire.jpg)
+![Brother Johnson and Brother McKenna around the fire]({static}/images/2008-09-19-campfire.jpg)
 
 Last night was my first camping trip as a Scout leader.
 

@@ -2,7 +2,7 @@ title: I&#x02bc;m asking you to do this.
 urlname: crosswalk
 date: 2007-10-20T23:21
 
-[![Vote for Crosswalk](https://dl.dropboxusercontent.com/s/15dpj8ue8wlhkzh/20071020-crosswalk.png)](http://edcommunity.apple.com/insomnia_fall07/item.php?itemID=1839)
+[![Vote for Crosswalk]({static}/images/2007-10-20-crosswalk.png)](http://edcommunity.apple.com/insomnia_fall07/item.php?itemID=1839)
 
 Geoff Yano is my favorite director. I might be a bit biased, because he has directed every film I ever acted in. But he is great! And phenomenal.
 

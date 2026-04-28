@@ -2,7 +2,7 @@ title: Technical support
 urlname: technical-support
 date: 2007-02-03T18:14
 
-![Belkin router](https://dl.dropboxusercontent.com/s/q1uc80qjtqdxdbb/20070203-belkin-router.jpg)
+![Belkin router]({static}/images/2007-02-03-belkin-router.jpg)
 
 I work in the technical support field, but I don&#x02bc;t have to deal withtechnical support myself very often. I recently had to, however, when my networkbroke.
 

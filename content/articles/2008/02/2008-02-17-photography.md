@@ -6,6 +6,6 @@ Somewhere deep down inside I want to be a photographer. I&#x02bc;m not sure wher
 
 Whatever it is, I probably suck at photography right now. Here is a photo I took:
 
-![Sprinkler](https://dl.dropboxusercontent.com/s/gya2e5qjta0fl15/20080217-sprinkler.jpg)
+![Sprinkler]({static}/images/2008-02-17-sprinkler.jpg)
 
 These are some pipes outside one of the School of Architecture buildings at the University of Texas. I took this with a Nokia 6126. Wait, what? That&#x02bc;s right, I took this picture with my cell phone camera. I guess it looks alright, for a cell phone camera.

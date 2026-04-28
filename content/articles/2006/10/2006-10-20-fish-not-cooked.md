@@ -2,7 +2,7 @@ title: This Fish Is Not Cooked!
 urlname: fish-not-cooked
 date: 2006-10-20T21:48
 
-![Image: This fish is not cooked!](https://dl.dropboxusercontent.com/s/04j5688ww06rlgm/20061020-sushi.jpg)
+![Image: This fish is not cooked!]({static}/images/2006-10-20-sushi.jpg)
 
 Tonight I had for-real sushi. Not fake crabmeat sushi from the studentunion, the real deal. It was fish and it was not cooked! And it wasdelicious!
 

@@ -6,11 +6,11 @@ On Saturday Rebecca and I went to [Sweet Berry Farm](http://sweetberryfarm.com/)
 
 The point of the maze is to go in, find nine points that represent the geographical locations of certain Texas cities, and punch a hole in a card with the hole puncher at each point. If one found every city, one got a free drink when one came out.
 
-![William in the maze](https://dl.dropboxusercontent.com/s/hvhflsknetkzclp/20081011-texas-maze-1.jpg)
+![William in the maze]({static}/images/2008-10-11-texas-maze-1.jpg)
 
-![Rebecca in the maze](https://dl.dropboxusercontent.com/s/1m4is0pdpwkjos6/20081011-texas-maze-2.jpg)
+![Rebecca in the maze]({static}/images/2008-10-11-texas-maze-2.jpg)
 
-![We found Coahoma](https://dl.dropboxusercontent.com/s/jea4wm2m44rlbp1/20081011-texas-maze-3.jpg)
+![We found Coahoma]({static}/images/2008-10-11-texas-maze-3.jpg)
 
 We probably spent close to an hour searching for cities, and we came out once to consult the map for a few cities that we couldn&#x02bc;t find at first. Rebecca&#x02bc;s mother Ann called me (probably because Rebecca did not have her phone with her) and asked me where we were.
 
