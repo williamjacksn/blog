@@ -10,7 +10,7 @@ What I mean is, I&#x02bc;ve never received a ticket for a traffic violation _on 
 
 So in theory, I am an international fugitive. But in reality, I payed the ticketand got on with my life.
 
-![Basingstoke, 2001-10-09](https://dl.dropboxusercontent.com/s/i47hsbweurlax8r/20040819-missionariescorsa.jpg)
+![Basingstoke, 2001-10-09]({static}/images/2004-08-19-missionariescorsa.jpg)
 
 This isn&#x02bc;t a picture of the car I was driving, but it is the same model, so youcan have an idea. I was on exchanges with a member of the ward in Selsdon, onthe outskirts of south London. We were trying to find the location of an addresswe had, and the member was giving me directions. The member knew the city quitewell; he was a bus driver by trade.
 

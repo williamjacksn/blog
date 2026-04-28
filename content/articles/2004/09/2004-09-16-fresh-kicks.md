@@ -2,7 +2,7 @@ title: Fresh Kicks
 urlname: fresh-kicks
 date: 2004-09-16T13:35
 
-![Fresh kicks](https://dl.dropboxusercontent.com/s/ieemtsjz9id6l0u/20040916-fresh-kicks.jpg)
+![Fresh kicks]({static}/images/2004-09-16-fresh-kicks.jpg)
 
 [&ldquo;Whoa, those are some fresh kicks there, Homestar!&rdquo;](http://homestarrunner.com/sbemail78.html)
 

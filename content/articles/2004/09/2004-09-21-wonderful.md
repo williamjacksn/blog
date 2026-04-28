@@ -6,7 +6,7 @@ I hope I can remember all the wonderful little things that happened today, becau
 
 My lip is getting worse. I think that&#x02bc;s awesome.
 
-![My lip is getting worse. But my skills with a pencam are improving!](https://dl.dropboxusercontent.com/s/g5tvlnli45ky7i3/20040921-lipworse.jpg)
+![My lip is getting worse. But my skills with a pencam are improving!]({static}/images/2004-09-21-lipworse.jpg)
 
 I worked 08:00 to 11:00 as normal. I powerwalked to E 316K in the stadium, as normal. When my English class was over, I decided to wait on the bridge at the corner of 23rd Street and San Jacinto, because I knew Chloë would be passing by on her way to class, and I wanted to say &ldquo;hello&rdquo; to her.
 
@@ -20,7 +20,7 @@ It&#x02bc;s Tuesday, so I had Men&#x02bc;s Chorus rehearsal. That was __wonderfu
 
 On my walk home from the Music Recital Hall, I saw a blue thing on the ground. I took notice of it and wonderered what it might be as I walked away. When I realized what it was, I went back to take a photo. It was one of those blue sheets Chloë uses to blot oil off her face. I saw it and I was reminded of her. That was __wonderful moment number four__.
 
-![Blot paper to die for. Seriously.](https://dl.dropboxusercontent.com/s/iy0brthqi1811lz/20040921-blot.jpg)
+![Blot paper to die for. Seriously.]({static}/images/2004-09-21-blot.jpg)
 
 From home, I took the bus to the Institute. On the bus a crazy woman sang a Southern Baptist hymn. I was smiling at her the whole time, and she knew it. It was really beautiful, and I count the experience as __wonderful moment number five__. I took her hand and thanked her as I got off the bus.
 

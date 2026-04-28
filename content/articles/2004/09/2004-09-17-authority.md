@@ -2,7 +2,7 @@ title: Exercising Authority
 urlname: authority
 date: 2004-09-17T12:48
 
-![Image: Keeping the peace, one intersection at a time](https://dl.dropboxusercontent.com/s/mux9o0ge6rjls6a/20040917-policecar.jpg)
+![Image: Keeping the peace, one intersection at a time]({static}/images/2004-09-17-policecar.jpg)
 
 I don&#x02bc;t particularly enjoy being frustrated with the police.
 
