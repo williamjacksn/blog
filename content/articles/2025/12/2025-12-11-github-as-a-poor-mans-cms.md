@@ -2,6 +2,7 @@ title: GitHub as a poor man&#x02bc;s CMS
 urlname: github-as-a-poor-mans-cms
 date: 2025-12-11 21:04 -0600
 status: draft
+category: misc
 
 So I&#x02bc;ve had this blog for a while. I have gone
 through several backends in its long lifetime. The oldest
