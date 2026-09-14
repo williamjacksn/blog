@@ -4,8 +4,10 @@ date: 2007-02-23T23:21
 
 ![Team Ravenclaw]({static}/images/2007-02-23-quidditch.jpg)
 
-Team Ravenclaw had a strong showing tonight. By the end of the night we werethe only team left with all seven players. But it was long, and tiring, andwe just didn&#x02bc;t have the game in us this time.
+Team Ravenclaw had a strong showing tonight. By the end of the night we were the only team left with all seven players.
+But it was long, and tiring, and we just didn&#x02bc;t have the game in us this time.
 
-It looks like I&#x02bc;ve become full-time keeper, too. Which is fine by me. Whoneeds all that running around anyway?
+It looks like I&#x02bc;ve become full-time keeper, too. Which is fine by me. Who needs all that running around anyway?
 
-Also, might I add, I was so happy that my good friends Rebecca and Elizabethjoined our team. They were great chasers. And beaters.
+Also, might I add, I was so happy that my good friends Rebecca and Elizabeth joined our team. They were great chasers.
+And beaters.

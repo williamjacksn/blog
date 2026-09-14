@@ -9,25 +9,25 @@ So, [you want three numbers][a] that multiply to get 72. Here are your options:
 
 [a]: {filename}/articles/2007/03/2007-03-21-riddle-strawberry-shortcake.md
 
-*   2 2 18
-*   2 3 12
-*   2 4 9
-*   2 6 6
-*   3 3 8
-*   3 4 6
+* 2 2 18
+* 2 3 12
+* 2 4 9
+* 2 6 6
+* 3 3 8
+* 3 4 6
 
 > __Update:__ As Clint pointed out in the comments, there are several more possibilities at this point. I completely
 > left out the cases where one or more daughters are 1 year old. Which is silly of me, because I have nieces and nephews
 > that are 1 year old. I think.
->  
+>
 > Thankfully, this oversight does not influence the outcome of the riddle.
 
 A few loyal riddlers got to this point and gave me some mouth about needing to know the house number. But you really do
 not need to know the number. You go look at the house number, but it does not help. But it does! Knowing that the house
 number does not help actually helps, because now you can narrow your choices down to sets that have the same sum:
 
-*   2 6 6
-*   3 3 8
+* 2 6 6
+* 3 3 8
 
 So what does strawberry shortcake have to do with all of this? Answer: nothing. The last piece of important information
 is the existence of _one_ oldest child. Therefore, the ages must be 3, 3, and 8.

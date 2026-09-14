@@ -2,7 +2,7 @@ title: Oh, the things you can do!
 urlname: oh-the-things-you-can-do
 date: 2007-06-21T13:08
 
->  
+>
 > Oh, the things you can do  
 > With accounts from [Yahoo!](http://www.yahoo.com/)  
 > You can [show off your photos](http://flickr.com/)  
@@ -14,6 +14,7 @@ date: 2007-06-21T13:08
 > To help with your choice  
 > You can read a review.  
 > Get some [driving directions](http://maps.yahoo.com/);  
-> No one&#x02bc;s smarter than you!Oh, the things you can do  
+> No one&#x02bc;s smarter than you!  
+> Oh, the things you can do  
 > With accounts from [Yahoo!](http://www.yahoo.com/)
-> 
+>
