@@ -15,7 +15,8 @@ date: 2005-02-26T06:12
 >
 > I suppose the Lone Star State is infamous  
 > For these bizarre weather patterns.  
-> &ldquo;If you don&#x02bc;t like the weather, wait ten minutes,&rdquo;But don&#x02bc;t let&#x02bc;s be cliché about it.
+> &ldquo;If you don&#x02bc;t like the weather, wait ten minutes,&rdquo;  
+> But don&#x02bc;t let&#x02bc;s be cliché about it.
 >
 > Let me take this fleeting moment  
 > To complain:  
