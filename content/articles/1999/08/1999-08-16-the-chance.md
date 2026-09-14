@@ -8,7 +8,8 @@ date: 1999-08-16T13:08
 > To open my heart and mind?
 > 
 >  
-> Is it that I&#x02bc;m contentWith my life as I live it  
+> Is it that I&#x02bc;m content  
+> With my life as I live it  
 > Or fearing what I may find?
 > 
 >  
