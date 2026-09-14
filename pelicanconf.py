@@ -1,4 +1,10 @@
 import os
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+import themes.default
 
 # WARNING Feeds generated without SITEURL set properly may not be valid
 SITEURL = "https://blog.subtlecoolness.com"
@@ -12,12 +18,6 @@ PATH = "content"
 
 # set the theme
 THEME = "themes/default"
-
-# I have .html and .xml template files
-TEMPLATE_EXTENSIONS = [
-    ".html",
-    ".xml",
-]
 
 # CRITICAL UndefinedError: 'pelican.contents.Article object' has no attribute 'author'
 AUTHOR = "William Jackson"
@@ -71,4 +71,16 @@ EXTRA_PATH_METADATA = {
     "images/keybase.txt": {
         "path": "keybase.txt",
     },
+}
+
+HTPY_TEMPLATES = {
+    "alpha": themes.default.alpha,
+    "article": themes.default.article,
+    "archives": themes.default.default,
+    "index": themes.default.index,
+    "tag": themes.default.default,
+    "category": themes.default.default,
+    "author": themes.default.default,
+    "drafts": themes.default.drafts,
+    "rss": themes.default.rss,
 }
