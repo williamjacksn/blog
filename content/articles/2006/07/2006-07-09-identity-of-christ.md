@@ -39,10 +39,10 @@ In a revelation given to Joseph Smith and Oliver Cowdery, [the Lord taught][e]:
 
 > Behold, Jesus Christ is the name which is given of the Father, and there is none other name given whereby man can be
 > saved;
-> 
+>
 > Wherefore, all men must take upon them the name which is given of the Father, for in that name shall they be called at
 > the last day;
-> 
+>
 > Wherefore, if they know not the name by which they are called, they cannot have place in the kingdom of my Father.
 
 Then Elder Holland continues. [He says][d],
@@ -69,12 +69,12 @@ Another apostle, [Elder Joseph B. Wirthlin said this][g]:
 [g]: https://www.churchofjesuschrist.org/study/general-conference/1996/10/christians-in-belief-and-action?lang=eng&id=p26-p27#p26
 
 > Through baptism we covenant to take upon us the Lord&#x02bc;s name and honor it by keeping His commandments.
-> 
+>
 > As we take His name upon us, we most certainly are Christians, for we bear the name of Christ. Each week as we partake
 > of the emblems of bread and water, we do it in remembrance of Him. We renew our covenant that we &ldquo;are willing to
 > take upon \[us\] the name of \[the\] Son \[of God\], and always remember him and keep his commandments which he has
 > given \[us\] ([D&amp;C 20:77][h]).&rdquo;
-> 
+>
 
 [h]: https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng&id=77#p77
 
@@ -108,19 +108,20 @@ and to live as He lives. He asks us to follow Him in word and in deed.
 In our quest to come unto Christ by taking upon us His identity, we have a wealth of resources available to us so that
 we can know exactly what that identity is.
 
-We have in the scriptures [the revelations of ancient prophets that prophecy of the Christ and describe His character and
+We have in the
+scriptures [the revelations of ancient prophets that prophecy of the Christ and describe His character and
 His mission to us][l]:
 
 [l]: https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=eng&id=p7,p11-p12#p7
 
 > For behold I say unto you there be many things to come; and behold, there is one thing which is of more importance
 > than they all&mdash;for behold, the time is not far distant that the Redeemer liveth and cometh among his people.
-> 
+>
 > &hellip;
-> 
+>
 > And he shall go forth, suffering pains and afflictions of every kind; and this that the word might be fulfilled which
 > saith he will take upon him the pains and the sickness of his people.
-> 
+>
 > And he will take upon him death, that he may loose the bands of death which bind his people; and he will take upon him
 > their infirmities, that his bowels may be filled with mercy, according to the flesh, that he may know according to the
 > flesh how to succor his people according to their infirmities.
@@ -153,7 +154,7 @@ The great King Benjamin of the Book of Mormon [said it like this][o]:
 > I say unto you, I would that ye should remember to retain the name written always in your hearts, that ye are not
 > found on the left hand of God, but that ye hear and know the voice by which ye shall be called, and also, the name by
 > which he shall call you.
-> 
+>
 > For how knoweth a man the master whom he has not served, and is a stranger unto him, and is far from the thoughts and
 > intents of his heart?
 
@@ -242,7 +243,7 @@ about as I strive to draw closer to Him, and you will, too.
 > As wider fields expand to view,  
 > And follow him unceasingly,  
 > Whate&#x02bc;er our lot or sphere may be.
-> 
+>
 > For thrones, dominions, kingdoms, pow&#x02bc;rs,  
 > And glory great and bliss are ours,  
 > If we, throughout eternity,  

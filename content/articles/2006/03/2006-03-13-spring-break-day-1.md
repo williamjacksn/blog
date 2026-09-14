@@ -2,10 +2,14 @@ title: Spring Break 2006: Day 1
 urlname: spring-break-day-1
 date: 2006-03-13T17:36
 
-The party has begun. Are you ready for the best spring break ever? Ihope so, because it is already upon us.
+The party has begun. Are you ready for the best spring break ever? I hope so, because it is already upon us.
 
-As all good spring breaks do, this year&#x02bc;s spring break started with someyard work. I assisted my mother and two youngest brothers this morning.I found an excuse to dig a hole in our front yard; that&#x02bc;s the point ofyard work, right? It&#x02bc;s an excuse to dig holes. We all took turns withthe shovel.
+As all good spring breaks do, this year&#x02bc;s spring break started with some yard work. I assisted my mother and two
+youngest brothers this morning. I found an excuse to dig a hole in our front yard; that&#x02bc;s the point of yard work,
+right? It&#x02bc;s an excuse to dig holes. We all took turns with the shovel.
 
-There was also some trimming and raking and sweeping, but you understandnone of this is as exciting as digging, for reasons unbeknownst to evenmyself.
+There was also some trimming and raking and sweeping, but you understand none of this is as exciting as digging, for
+reasons unbeknownst to even myself.
 
-After all that semi-hard work, we had a picnic lunch &mdash; in the foodcourt of a local mall. Hey, it was cold outside. After lunch we went toa park and tried to fly a kite and tried to play tennis.
+After all that semi-hard work, we had a picnic lunch &mdash; in the food court of a local mall. Hey, it was cold
+outside. After lunch we went to a park and tried to fly a kite and tried to play tennis.

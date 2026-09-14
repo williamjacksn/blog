@@ -4,9 +4,11 @@ date: 2006-01-24T12:54
 
 I like to sing. I have many friends that also like to sing.
 
-I am a student at the [Church of Jesus Christ of Latter-day Saints](http://mormon.org/)[Institute of Religion](http://www.lds.org/institutes/home/0,8473,768-1-36-60505,00.html) in Austin. I have many friends that are alsostudents here.
+I am a student at
+the [Church of Jesus Christ of Latter-day Saints](http://mormon.org/)[Institute of Religion](http://www.lds.org/institutes/home/0,8473,768-1-36-60505,00.html)
+in Austin. I have many friends that are also students here.
 
-When you put these two together, you get something called the Institutechoir. We&#x02bc;ve got everything we need.
+When you put these two together, you get something called the Institute choir. We&#x02bc;ve got everything we need.
 
 Except for a director.
 

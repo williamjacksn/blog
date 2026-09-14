@@ -4,12 +4,15 @@ date: 2006-10-20T21:48
 
 ![Image: This fish is not cooked!]({static}/images/2006-10-20-sushi.jpg)
 
-Tonight I had for-real sushi. Not fake crabmeat sushi from the studentunion, the real deal. It was fish and it was not cooked! And it wasdelicious!
+Tonight I had for-real sushi. Not fake crabmeat sushi from the student union, the real deal. It was fish and it was not
+cooked! And it was delicious!
 
-I actually only ate a bit of fish. Most of my dish was eel, which, I amtold, needs to be cooked.
+I actually only ate a bit of fish. Most of my dish was eel, which, I am told, needs to be cooked.
 
 So, if I&#x02bc;m sick tomorrow I will know why.
 
-My friend Jerry and I have developed a tradition for ourselves here inAustin. Every Friday (almost) we go to a new restaurant for dinner andhave an adventure! After dinner we always go to [Amy&#x02bc;s Ice Cream](http://www.amysicecream.com/).
+My friend Jerry and I have developed a tradition for ourselves here in Austin. Every Friday (almost) we go to a new
+restaurant for dinner and have an adventure! After dinner we always go
+to [Amy&#x02bc;s Ice Cream](http://www.amysicecream.com/).
 
-Tonight&#x02bc;s adventure was [Sushi Saké](http://sushisakeaustin.com/). The food is better than thewebsite.
+Tonight&#x02bc;s adventure was [Sushi Saké](http://sushisakeaustin.com/). The food is better than the website.
