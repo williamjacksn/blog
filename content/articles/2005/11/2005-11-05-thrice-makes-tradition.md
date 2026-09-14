@@ -12,7 +12,7 @@ The first instance fell on 28 April 2004. I didn&#x02bc;t go to the concert, but
 I heard Death Cab live for the first time over a cell phone.
 
 The second chance I had to hear, nay, _experience_ this fine band, was 30 October 2004. This time I was at the concert
-in person. Colleen was there,too. [It was incredible][c].
+in person. Colleen was there, too. [It was incredible][c].
 
 [c]: {filename}/articles/2004/11/2004-11-03-under-21.md
 
