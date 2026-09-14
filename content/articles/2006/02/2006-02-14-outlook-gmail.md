@@ -40,7 +40,7 @@ Here&#x02bc;s what you do:
 6. Download, extract and run the GMail Loader program (gmlw.exe). Click the Find button and go digging for
    Thunderbird&#x02bc;s mail files. The default location is:
 
-   `C:\\Documents and Settings\\&lt;username&gt;\\Application Data\\Thunderbird\\Profiles\\Mail\\Local Folders\\`
+   `C:\Documents and Settings\<username>\Application Data\Thunderbird\Profiles\Mail\Local Folders\`
 
    For each folder in Thunderbird, there are two files in that directory. One ends in `.msf`, and the other
    doesn&#x02bc;t have an extension. Select the one without the extension.

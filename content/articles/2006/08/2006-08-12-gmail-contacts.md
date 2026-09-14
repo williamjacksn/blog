@@ -22,7 +22,7 @@ Now take a look at the same clip in Internet Explorer:
 The big difference I am pointing out here is that group names are bold and contact names are not.
 
 I like the contact list display in Internet Explorer more, and it _feels_ to me like this is the &ldquo;correct&rdquo;
-way, but alas: when I view the page source (in Firefox), I can see that there is an explicit `&lt;b&gt;` tag surrounding
+way, but alas: when I view the page source (in Firefox), I can see that there is an explicit `<b>` tag surrounding
 the names. So they are _supposed_ to be bolded, and Internet Explorer just isn&#x02bc;t doing what it is asked to do.
 
 Also, Internet Explorer won&#x02bc;t let me see the page source. When I right-click on the page and choose __View
