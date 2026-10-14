@@ -1,5 +1,5 @@
 import argparse
-import datetime
+import datetime as dt
 import pathlib
 import zoneinfo
 
@@ -26,7 +26,7 @@ def parse_args() -> Args:
 
 def main() -> None:
     zone = zoneinfo.ZoneInfo("America/Chicago")
-    now = datetime.datetime.now(zone)
+    now = dt.datetime.now(zone)
     args = parse_args()
     target = (
         pathlib.Path("content/articles")
